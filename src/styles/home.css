@@ -68,11 +68,10 @@
 
 @media screen and (max-width: 1170px) {
   #home {
-    min-height: 100%;
-    padding-top: 0px;
+    align-items: center;
   }
 
-  #banner, #banner img, #home .shape {
+  #banner, #banner img {
     display: none;
 
   }
